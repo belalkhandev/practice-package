@@ -1,0 +1,17 @@
+{
+    "name": "becodezen/calculator",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Becodezen\\Calculator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Belal khan",
+            "email": "belalkhan.dev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
